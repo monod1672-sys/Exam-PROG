@@ -1,0 +1,5 @@
+com\mycompany\localcompany\Application.class
+com\mycompany\localcompany\Localcompany.class
+com\mycompany\localcompany\Product.class
+com\mycompany\localcompany\IProduct.class
+com\mycompany\localcompany\PrintProduct.class
